@@ -1,12 +1,13 @@
 import React, { useState } from 'react';
 import './app.scss';
 // import Navigation from './components/Navigation';
-import Topbar from "./components/topbar/topbar";
-import About from "./components/About/about";
-import Resume from './components/Resume/resume';
-import Portfolio from './components/portfolio/portfolio';
-import Contact from './components/Contact/contact';
-import Footer from './components/Footer/footer';
+import Topbar from "./components/Topbar/Topbar";
+import About from "./components/About/About";
+import Resume from './components/Resume/Resume';
+import Portfolio from './components/Portfolio/Portfolio';
+import Contact from './components/Contact/Contact';
+import Footer from './components/Footer/Footer';
+
 
 function App() {
 

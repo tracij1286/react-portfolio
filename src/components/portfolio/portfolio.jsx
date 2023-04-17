@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import React from 'react';
 import "./portfolio.scss";
-import PortfolioList from "../PortfolioList/portfolioList";
+import PortfolioList from "../PortfolioList/PortfolioList";
 import { frontendPortfolio, backendPortfolio, fullstackPortfolio } from "../../data";
 
 
