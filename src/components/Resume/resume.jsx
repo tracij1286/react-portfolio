@@ -7,7 +7,7 @@ function Resume() {
     return (
         <div className="Resume" id="Resume">
             <h2>Traci Johnson Resume</h2>
-            <p>Note: Please find a <a href="https://drive.google.com/file/d/1Dj4F5ZEipBl9Q1Gf5uQIddytAr3MaawX/view?usp=sharing" target="_blank" rel="noreferrer">downloadable resume here</a></p>
+            <p>Note: Please find a <a href="https://docs.google.com/document/d/1IHPCTsbeTSA4bdnQsuJiEhbSoY9uZESWdwq4hdbaj9g/edit?usp=sharing" target="_blank" rel="noreferrer">downloadable resume here</a></p>
             <p>Graphic Designer and Full Stack Developer with nearly 20 years of experience with technology companies. Proven effectiveness in communications, and customer engagement. Looking to help leading technology companies continue to increase their awareness, thought leadership, leads, engagement, and customer loyalty. </p>
             <h3>Full Stack Development Experience</h3>
             <p>As a full stack developer in the UVR Extension Full Stack Development Coding Bootcamp, I have developed proficiency with these technologies:</p>
