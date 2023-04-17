@@ -1,11 +1,13 @@
 import React from 'react';
 import "./contact.scss"
+ // eslint-disable-next-line
 import { useState } from 'react';
+ // eslint-disable-next-line
 import { validateEmail } from '../../utils/helpers';
 
 
 function Contact() {
-
+ // eslint-disable-next-line
     const [message, setMessage] = useState(false)
 
     const handleSubmit = (e)=> {

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './app.scss';
 // import Navigation from './components/Navigation';
 import Topbar from "./components/Topbar/Topbar";
@@ -15,6 +15,7 @@ function App() {
     <div className="app">
       <Topbar></Topbar>
       <div className="sections">
+        
         <About></About>
         <Portfolio></Portfolio>
         <Contact></Contact>

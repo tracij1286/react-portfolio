@@ -1,35 +1,39 @@
-import React from 'react';
+// eslint-disable-next-line
+import { useState } from 'react';
 import "./about.scss"
 import { useEffect, useRef } from 'react';
 import { init } from 'ityped'
+
+
 function About() {
     const textRef = useRef();
 
-    useEffect(() => {
-        init(textRef.current, {
-            showCursor: true,
-            backDelay: 1500,
-            backSpeed: 60,
-            strings: ["Graphics", "leader", "full stack developer", "badass"],
-        });
+    useEffect (()=>{
+       init(textRef.current, {
+        showCursor: true,
+        backDelay: 1500,
+        backSpeed: 60,
+        strings: ["Graphics", "leader", "full stack developer", "driven"],   
+       });
 
     }, []);
+
     return (
         <div className="about" id="about">
             <div className="left">
                 <div className="imgContainer">
-                    <img src="assets/photoofme-copy.jpeg" alt="" />
+                    <img src="/assets/headshot.JPG" alt="Photo" />
                 </div>
-                <div className="right">
-                <div className="wrapper">
-                    <h2>Hello, I'm</h2>
-                    <h1>Traci Johnson</h1>
-                    <h3>Open Source <span ref={textRef}></span></h3>
-                    <p>I have a background in Graphic Design having worked for Warner Brothers, TMZ, BET and more. I've now shifted my passion to becoming an expert Fullstack Developer with a Certification from University of Richmond.
-                         </p>
-                         </div>
             </div>
-        </div>
+            <div className="right">
+                <div className="wrapper">
+                    <h2>Hi there, I'm</h2>
+                    <h1>Traci Johnson</h1>
+                    <h3>Front End Developer <span ref={textRef}></span></h3>
+                    <p>Having worked as a Graphic Desinger for Warner brothers, TMZ, Bet and more, I've now transitioned into a new passion for front end development. 
+                    </p>
+                </div>
+            </div>
         </div>
     );
 }
