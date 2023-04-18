@@ -10,7 +10,7 @@ function Footer() {
         <div className="footer" id="footer">
         <ul>
             <li><a href="https://github.com/tracij1286" target="_blank" rel="noreferrer"><GitHubIcon className="icon"></GitHubIcon></a></li>
-            <li><a href="https://www.linkedin.com/ " target="_blank" rel="noreferrer"><LinkedInIcon className="icon"></LinkedInIcon></a></li>
+            <li><a href="https://www.linkedin.com/in/traci-johnson1002 " target="_blank" rel="noreferrer"><LinkedInIcon className="icon"></LinkedInIcon></a></li>
             <li><a href="https://twitter.com/target/="target="_blank" rel="noreferrer"><TwitterIcon className="icon"></TwitterIcon></a></li>
             </ul>
     </div>

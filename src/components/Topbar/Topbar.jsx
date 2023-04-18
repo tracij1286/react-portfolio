@@ -1,7 +1,6 @@
 import React from 'react';
 import "./topbar.scss";
-import GitHubIcon from '@material-ui/icons/GitHub';
-import LinkedInIcon from '@material-ui/icons/LinkedIn';
+
 
 
 function Topbar() {
@@ -12,10 +11,7 @@ function Topbar() {
                 <div className="left">
                     <a href="#about" className="logo">Traci Johnson</a>
                     <div className="itemContainer">
-                        <ul>
-                            <li><a href="https://github.com/tracij1286" target="_blank" rel="noreferrer"><GitHubIcon className="icon"></GitHubIcon></a></li>
-                            <li><a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><LinkedInIcon className="icon"></LinkedInIcon></a></li>
-                        </ul>
+                       
                     </div>
                 </div>
 

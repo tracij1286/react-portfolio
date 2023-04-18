@@ -19,7 +19,7 @@ function Contact() {
     return (
         <div className="contact" id="contact">
             <div className="left">
-           < img src="https://user-images.githubusercontent.com/115906481/232622358-ebeea995-77d3-4182-a5f9-49f5834d9b8a.jpg
+           < img src="https://user-images.githubusercontent.com/115906481/232645974-d4500b54-8191-492a-9c54-d58072d3ac61.png
 " alt="Message me" />
            </div>
             <div className="right">
