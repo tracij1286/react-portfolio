@@ -35,7 +35,7 @@ https://github.com/tracij1286/react-portfolio.git
 
 ## Live Site
 
-
+https://tracij1286.github.io/react-portfolio/
 
 ## Sited works
 https://www.youtube.com/watch?v=7WwtzsSHdpI 
