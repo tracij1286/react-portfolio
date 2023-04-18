@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tracij1286/react-portfolio.git/static/css/main.b8f12b2f.css",
+    "main.js": "/tracij1286/react-portfolio.git/static/js/main.d770b3f2.js",
+    "index.html": "/tracij1286/react-portfolio.git/index.html",
+    "main.b8f12b2f.css.map": "/tracij1286/react-portfolio.git/static/css/main.b8f12b2f.css.map",
+    "main.d770b3f2.js.map": "/tracij1286/react-portfolio.git/static/js/main.d770b3f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8f12b2f.css",
+    "static/js/main.d770b3f2.js"
+  ]
+}
