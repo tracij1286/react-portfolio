@@ -58,7 +58,7 @@ export const fullstackPortfolio = [
     {
         id:9,
         title: "DevConnect",
-        img :"https://user-images.githubusercontent.com/115906481/235566591-3c1bea87-9833-410e-8df0-9eacf7f2b1d6.png",
+        img :"https://user-images.githubusercontent.com/115906481/235568085-f901701e-5723-4c41-8b53-2ed3a711f09b.png",
         url: "https://github.com/jannorth/DevConnect.git",
     },
 ]
