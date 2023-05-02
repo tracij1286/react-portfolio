@@ -3,7 +3,7 @@ import './app.scss';
 // import Navigation from './components/Navigation';
 import Topbar from "./components/Topbar/Topbar";
 import About from "./components/About/About";
-import Resume from './components/Resume/Resume';
+import Resume from './components/Resume/resume';
 import Portfolio from './components/Portfolio/Portfolio';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
