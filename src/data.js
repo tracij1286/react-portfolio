@@ -51,9 +51,9 @@ export const fullstackPortfolio = [
     },
     {
         id:8,
-        title: "Text Editor",
-        img :"https://user-images.githubusercontent.com/115906481/232636250-80182133-f9fe-46e3-8581-2528a4bde00b.png",
-        url: "https://pwa-text-editor77.herokuapp.com/",
+        title: "Amazon Clone",
+        img :"https://github.com/tracij1286/react-portfolio/assets/115906481/6dea6fba-e6e9-4716-8bab-d13ff7a5292b",
+        url: "https://challenge-7404e.web.app/",
     },
     {
         id:9,
