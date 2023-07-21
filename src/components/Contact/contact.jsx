@@ -29,7 +29,7 @@ function Contact() {
                     <input type="text" placeholder="Name"/>
                     <textarea placeholder="Message"></textarea>
                     <button type="submit">Send</button>
-                    {message && <span>Thank You, I'll be in touch soon :)</span>}
+                    {message && <span>Thank You, I'll be in touch soon! :)</span>}
                 </form>
             </div>
 
